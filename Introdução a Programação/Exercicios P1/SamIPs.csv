@@ -1,0 +1,6 @@
+192.168.1.1,PC1,Raspbian,armazenamento de dados
+192.168.1.2,PC2,Windows,desktop pessoal
+192.168.1.3,PC3,Debian,desktop de mãe
+192.168.1.4,Smartphone,Android,Celular pessoal
+192.168.1.5,Smartphone,Android,Celular de mãe
+192.168.8.0,Antigo,MSDOS,uma viajem no tempo!
